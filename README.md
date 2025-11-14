@@ -26,4 +26,4 @@ MySQL Server required to run these pipelines.
 📫 Contact
 Your Name - https://www.linkedin.com/in/salman-rasheed-ai/ - salmanrasheedsrk86@gmail.com
 
-Project Link: [https://github.com/your-username/your-repo](https://github.com/salman7420/SQL-DATA-WAREHOUSE)
+Project Link: https://github.com/salman7420/SQL-DATA-WAREHOUSE
